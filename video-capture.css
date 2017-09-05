@@ -21,3 +21,12 @@
 .lm-video-capture-record-stop-btn-style {
   margin-left: 10px;
 }
+
+#play-video {
+    display: none;
+}
+
+.lm-video-capture-video {
+    display: flex;
+    justify-content: center;
+}
